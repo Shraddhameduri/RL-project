@@ -17,10 +17,12 @@ Implementing Dialogue Systems via Q-Networking.
 12. Improve upon the basic implementation.
 13. Develop an advanced algorithm and set up test cases for it.
 14. Submit the checkpoint.
-15. Submit final.
-16. Prepare for the presentation.
-17. Set up presentation slides.
-18. Prepare results for the presentation.
+15. Fine-tuning the model by first testing hyperparams.
+16. Optimize the hyperparameters via a framework like Optuna.
+17. Submit final project.
+18. Prepare for the presentation.
+19. Set up presentation slides.
+20. Prepare results for the presentation.
 
 ## In-Progress
 
